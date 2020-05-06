@@ -5,3 +5,4 @@ delete from harri3_live.brand_user where brand_id IN  (812216) and type ='IMPLIC
 select * from brand where group_id in (812216) and deleted = 0;
  ######child :  {812221, 2314234}
 select * from brand_job_reference join job on brand_job_reference.job_id = job.id where brand_job_reference.brand_id in (812216,812221, 2314234)and job.brand_id not in (812216) ;
+Pprint("nada")
