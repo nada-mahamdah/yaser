@@ -1,0 +1,72 @@
+user_id,full name,Email,Brand_id,Brand_name,is_primary,Holiday Plan type,Holiday Plan name,holiday plan start date,accruals,adjustments,booked,taked,allowance,ATD,full_annual_entitlement,remaining_annual_balance,daily_paid,total_worked_days,daily_worked,
+85460,(ADMIN) Valentine Jerevija,valentine@payrollbureau.co.uk,3124943,Bleecker Burger,1,None,None,None,
+74485,(ADMIN) Zan Kaufman,zan@bleecker.co.uk,3124943,Bleecker Burger,1,None,None,None,
+74449,(ADMIN) Liam O'Keefe,liam@bleecker.co.uk,3124943,Bleecker Burger,1,None,None,None,
+92583,(ADMIN) Antonia Smith,antonia@bleecker.co.uk,3124943,Bleecker Burger,1,None,None,None,
+74661,(ADMIN) Laure Colbeck,laure@bleecker.co.uk,3124943,Bleecker Burger,1,None,None,None,
+74660,(ADMIN) Susanna Lythgoe-Goldstein,susie@bleecker.co.uk,3124943,Bleecker Burger,1,None,None,None,
+74423,Aisha Aisatu Baldé,Isha_balde123@hotmail.com,3124944,Bleecker - Bloomberg,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,11.14,59.29,53.0,6.74
+103114,Ndeye THIAM,ndeye1997@gmail.com,3124944,Bleecker - Bloomberg,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,22.28,66.89,44.0,7.87
+74463,Neima Idris,neimaidris01_@hotmail.com,3124944,Bleecker - Bloomberg,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,11.14,60.98,63.0,6.81
+84040,Mihai Adrian Voinea,voinea82@gmail.com,3124944,Bleecker - Bloomberg,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,22.28,82.73,86.0,8.63
+74445,Karolina Luszcz,LUSZCZ.KAROLINA@GMAIL.COM,3124944,Bleecker - Bloomberg,1,FIXED,Salaried Plan,2020-05-01,0.23,0.0,0.0,0.0,28.0,0.23,28.0,28.08,
+76224,(ADMIN) Karolina Luszcz,karolina@bleecker.co.uk,3124944,Bleecker - Bloomberg,1,None,None,None,
+74434,Ebrima Waggeh,waggehebrima91@yahoo.com,3124944,Bleecker - Bloomberg,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,22.28,97.63,82.0,9.51
+110730,William Daw,william.daw@yahoo.com,3124944,Bleecker - Bloomberg,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,22.28,77.0,32.0,8.11
+74440,Jaden Donowa,jadendonowa@gmail.com,3124944,Bleecker - Bloomberg,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,11.14,61.17,57.0,7.2
+74473,Severine Deluge,severine.deluge@gmail.com,3124944,Bleecker - Bloomberg,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,27.85,70.82,94.0,7.87
+74459,Mass Kah,masskah2010@yahoo.co.uk,3124944,Bleecker - Bloomberg,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,16.71,99.32,72.0,9.93
+102206,Nafisa Ali,nafisa_2000@outlook.com,3124944,Bleecker - Bloomberg,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,5.57,57.58,19.0,6.77
+74478,Valdinilson Fontes Santana,Valdinilsonsantana7@gmail.com,3124944,Bleecker - Bloomberg,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,11.14,88.78,48.0,9.39
+74471,Sephora Katalayi,sephora1.student.hackney.ac.uk@gmail.com,3124944,Bleecker - Bloomberg,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,11.14,68.67,50.0,7.77
+74482,Youcef Bazine,Youceftaria18@gmail.com,3124945,Bleecker - Victoria,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,27.85,90.7,103.0,9.22
+107192,Bethany George,bethanygeorge93@hotmail.co.uk,3124945,Bleecker - Victoria,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,22.28,79.17,24.0,8.12
+115779,Alfons Miquel Perez Moreno,alfonspm10@gmail.com,3124945,Bleecker - Victoria,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,16.71,70.3,15.0,8.27
+76228,(ADMIN) Sergio Soares,sergio@bleecker.co.uk,3124945,Bleecker - Victoria,1,None,None,None,
+74438,Hajar Nahhal Draoui,hajita1995@gmail.com,3124945,Bleecker - Victoria,1,FIXED,Salaried Plan,2020-05-01,0.23,0.0,0.0,0.0,28.0,0.23,28.0,28.08,
+78340,(ADMIN) Degan Guirreh,degan@bleecker.co.uk,3124945,Bleecker - Victoria,1,None,None,None,
+74424,Alison Rogers,alison.ar24@gmail.com,3124945,Bleecker - Victoria,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,22.28,79.75,96.0,8.32
+101849,Luis Enrique Celi Jumbo,luiscelij4@gmail.com,3124945,Bleecker - Victoria,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,22.28,81.74,37.0,9.08
+107201,Karl Forward,karlforward@hotmail.co.uk,3124945,Bleecker - Victoria,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,16.71,86.45,15.0,8.87
+74439,Hamza Obay,hamzaobay77@gmail.com,3124945,Bleecker - Victoria,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,27.85,104.69,105.0,10.34
+74429,Celia Fontes Santana,celiasantana1998@gmail.com,3124945,Bleecker - Victoria,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,11.14,71.79,61.0,8.32
+74446,Kelly Carrion Guayanay,kellycarrion1999@gmail.com,3124945,Bleecker - Victoria,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,22.28,100.57,92.0,10.01
+74472,Sergio Soares,soaressergio@outlook.com,3124945,Bleecker - Victoria,1,FIXED,Salaried Plan,2020-05-01,0.23,0.0,1.0,0.0,28.0,0.23,28.0,27.08,
+76223,(ADMIN) Hajar Nahhal Draoui,hajar@bleecker.co.uk,3124945,Bleecker - Victoria,1,None,None,None,
+74443,Joao Afonso,Joaoafonsoafonso5@gmail.com,3124945,Bleecker - Victoria,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,27.85,87.11,101.0,9.98
+104861,Felipe Da Silva Ribeiro,feliperibeirouk@hotmail.com,3124945,Bleecker - Victoria,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,22.28,69.18,29.0,7.91
+116848,Mikel Peinado Lopez,mikel.peinado.2000@gmail.com,3124945,Bleecker - Victoria,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,16.71,68.18,11.0,8.02
+109449,Layla Johnson-Gobin,missgobin@live.com,3124946,Bleecker - Spitalfields,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,16.71,44.59,21.0,5.25
+82894,Anette Bespalova,bespalovaanette@gmail.com,3124946,Bleecker - Spitalfields,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,5.57,60.18,42.0,7.08
+74422,Abdi Fitah Farah,garmagale1@gmail.com,3124946,Bleecker - Spitalfields,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,22.28,77.36,96.0,8.34
+74430,Celine Raeburn ,celineraeburn@gmail.com,3124946,Bleecker - Spitalfields,1,FIXED,Salaried Plan,2020-05-01,0.23,0.0,0.0,0.0,28.0,0.23,28.0,28.08,
+74454,Marco De Cillis,yxmark1987.x@gmail.com,3124946,Bleecker - Spitalfields,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,27.85,81.13,102.0,9.32
+74480,Veronika Ivanková,veronika.ivankova6@gmail.com,3124946,Bleecker - Spitalfields,1,FIXED,Salaried Plan,2020-05-01,0.23,0.0,0.0,0.0,28.0,0.23,28.0,28.08,
+74476,Timoteo Nkalu,timoteonkalu@live.co.uk,3124946,Bleecker - Spitalfields,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,27.85,73.07,93.0,8.12
+76230,(ADMIN) Bogdan Lelcu,bogdan@bleecker.co.uk,3124946,Bleecker - Spitalfields,1,None,None,None,
+74426,Argyris Boulos,argi9696@hotmail.com,3124946,Bleecker - Spitalfields,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,22.28,113.0,90.0,9.42
+112861,Evelyn Hall,eeehall@yahoo.com,3124946,Bleecker - Spitalfields,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,16.71,53.26,21.0,6.27
+76226,(ADMIN) Veronika Ivankova,veronika@bleecker.co.uk,3124946,Bleecker - Spitalfields,1,None,None,None,
+74437,Grace Bolenge,gbolenge@gmail.com,3124946,Bleecker - Spitalfields,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,5.57,88.38,33.0,10.19
+82399,Esther Ukwuoma,chinazaukwuoma@gmail.com,3124946,Bleecker - Spitalfields,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,7.0,0.0,28.0,0.0, ,9.71,56.18,73.0,6.61
+76229,(ADMIN) Celine Raeburn,celine@bleecker.co.uk,3124946,Bleecker - Spitalfields,1,None,None,None,
+124586,Sameira Hippolyte,sameira33@gmail.com,3124946,Bleecker - Spitalfields,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,11.14,24.79,2.0,2.92
+74428,Bogdan Lelcu,lelcuog@yahoo.com,3124946,Bleecker - Spitalfields,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,27.85,93.1,96.0,9.52
+74427,Aya Ahmed,ayasaim154@gmail.com,3276440,Bleecker - Westfield,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,22.28,75.65,81.0,8.11
+74465,Oliver Hickey,elpasopictures@outlook.com,3276440,Bleecker - Westfield,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,5.57,70.17,32.0,7.59
+74425,Anna Czigany,annaczigany87@gmail.com,3276440,Bleecker - Westfield,1,FIXED,Salaried Plan,2020-05-01,0.23,0.0,0.0,0.0,28.0,0.23,28.0,28.08,
+82609,Kristine Evio,kristineevio@hotmail.com,3276440,Bleecker - Westfield,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,16.71,75.52,66.0,8.16
+74433,Duran Mills,Yami_Millz@msn.com,3276440,Bleecker - Westfield,1,FIXED,Salaried Plan,2020-05-01,0.23,0.0,0.0,0.0,28.0,0.23,28.0,28.08,
+74431,Degan Guirreh,Dguirreh@hotmail.fr,3276440,Bleecker - Westfield,1,FIXED,Salaried Plan,2020-05-01,0.23,0.0,0.0,0.0,28.0,0.23,28.0,28.08,
+76221,(ADMIN) Anna Czigany,anna@bleecker.co.uk,3276440,Bleecker - Westfield,1,None,None,None,
+74458,Marta Santos,marta.csantos@icloud.com,3276440,Bleecker - Westfield,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,5.57,74.99,35.0,8.13
+74479,Veronica Tshisungu,aubryntumba@gmail.com,3276440,Bleecker - Westfield,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,5.57,75.18,45.0,8.1
+82827,Filipe Diefenbach Cardoso,filipe.rock1997@gmail.com,3276440,Bleecker - Westfield,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,22.28,83.99,83.0,8.61
+82591,Anas Nour,anasanour@gmail.com,3276440,Bleecker - Westfield,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,16.71,78.25,75.0,8.38
+97308,Shakira Johnson,johns286.206@gmail.com,3276440,Bleecker - Westfield,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,5.57,69.03,29.0,7.46
+78991,Amr Obay,amrobay141@gmail.com,3276440,Bleecker - Westfield,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,22.28,78.87,103.0,9.29
+74467,Prabhat Gurung,prabhatgurung@hotmail.co.uk,3276440,Bleecker - Westfield,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,11.14,69.51,67.0,7.47
+74466,Paolo Amoroso,amorosopaolo9@gmail.com,3276440,Bleecker - Westfield,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,22.28,101.35,100.0,9.56
+74447,Kuba Senger,kuba.senger@gmail.com,3276440,Bleecker - Westfield,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,16.71,70.67,76.0,7.71
+82705,Amine Bazine,aminebazine.20@gmail.com,3276440,Bleecker - Westfield,1,FLEXIBLE,Hourly Plan,2020-05-01,0.0,0.0,0.0,0.0,28.0,0.0, ,22.28,84.55,84.0,9.01
+76222,(ADMIN) Duran Mills,duran@bleecker.co.uk,3276440,Bleecker - Westfield,1,None,None,None,
