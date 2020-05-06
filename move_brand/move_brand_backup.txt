@@ -1,0 +1,10 @@
+<<<<<<<brand_user>>>>>>>>>>
+INSERT INTO harri3_live.brand_user (`brand_id`, `user_id`, `type`, `created`, `updated`)  VALUES (812216,791268,IMPLICIT,2019-11-24 11:13:52,2019-11-24 11:13:52);
+<<<<<<<brand_user>>>>>>>>>>
+INSERT INTO harri3_live.brand_user (`brand_id`, `user_id`, `type`, `created`, `updated`)  VALUES (812216,791268,IMPLICIT,2019-11-24 11:13:52,2019-11-24 11:13:52);
+<<<<<<<brand_user>>>>>>>>>>
+INSERT INTO harri3_live.brand_user (`brand_id`, `user_id`, `type`, `created`, `updated`)  VALUES (812216,791268,IMPLICIT,2019-11-24 11:13:52,2019-11-24 11:13:52);
+<<<<<<<brand_user>>>>>>>>>>
+INSERT INTO harri3_live.brand_user (`brand_id`, `user_id`, `type`, `created`, `updated`)  VALUES (812216,791268,IMPLICIT,2019-11-24 11:13:52,2019-11-24 11:13:52);
+<<<<<<<brand_user>>>>>>>>>>
+INSERT INTO harri3_live.brand_user (`brand_id`, `user_id`, `type`, `created`, `updated`)  VALUES (812216,791268,IMPLICIT,2019-11-24 11:13:52,2019-11-24 11:13:52);
